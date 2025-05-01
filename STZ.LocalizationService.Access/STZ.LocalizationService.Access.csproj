@@ -10,10 +10,7 @@
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.4" />
       <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.4" />
       <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <ProjectReference Include="..\..\STZ.Shared\STZ.Shared.csproj" />
+      <PackageReference Include="STZ.Shared" Version="25.5.1.1559" />
     </ItemGroup>
 
 </Project>

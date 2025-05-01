@@ -16,7 +16,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\STZ.LocalizationService.Access\STZ.LocalizationService.Access.csproj" />
+      <ProjectReference Include="..\STZ.LocalizationService.Access\STZ.LocalizationService.Access.csproj" />
     </ItemGroup>
 
 </Project>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STZ.LocalizationService.Access", "STZ.LocalizationService.Access\STZ.LocalizationService.Access.csproj", "{62AD8A16-5A70-4F96-B4B9-24C7BD245BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STZ.LocalizationService.Backend", "STZ.LocalizationService.Backend\STZ.LocalizationService.Backend.csproj", "{2A99160D-1BEE-4186-A398-8DA2D64459E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AD8A16-5A70-4F96-B4B9-24C7BD245BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AD8A16-5A70-4F96-B4B9-24C7BD245BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AD8A16-5A70-4F96-B4B9-24C7BD245BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AD8A16-5A70-4F96-B4B9-24C7BD245BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A99160D-1BEE-4186-A398-8DA2D64459E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A99160D-1BEE-4186-A398-8DA2D64459E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A99160D-1BEE-4186-A398-8DA2D64459E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A99160D-1BEE-4186-A398-8DA2D64459E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
