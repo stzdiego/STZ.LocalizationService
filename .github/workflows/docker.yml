@@ -24,4 +24,4 @@ jobs:
           context: .
           file: ./STZ.LocalizationService.Backend/Dockerfile
           push: true
-          tags: stzdiego/stz.localizationservice.backend:latest
+          tags: stzdiego/stz.localizationservice:latest
